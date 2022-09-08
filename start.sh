@@ -1,0 +1,1 @@
+echo nvidia | sudo -S /home/nvidia/wjd/huaian/CrSDK_back2/build/RemoteCli
