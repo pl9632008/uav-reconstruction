@@ -14,7 +14,7 @@ include(enum_crsdk_hdr)
 
 # include_directories(include /usr/local/include /home/nvidia/wjd/huaian/mavtest2/include/mavlink2.0 /home/nvidia/wjd/huaian/eigen-master)
 
-include_directories(include  )
+include_directories(include include/mavlink2.0 )
 
 ### Define output target ###
 set(remotecli "${PROJECT_NAME}")
